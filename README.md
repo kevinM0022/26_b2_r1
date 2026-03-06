@@ -4,7 +4,7 @@
 
 # Cuenta de la base de datos creada en prisma.io
 
-![cuenta base de datos](/evidencias%20imagenes/cuentabasededatosprisma.png)
+![cuenta base de datos](/Capturas%20de%20pantalla/cuentabasededatosprisma.png)
 
 # Configuracion de base de datos en prisma.io
 
