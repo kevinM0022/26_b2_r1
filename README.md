@@ -4,11 +4,11 @@
 
 # Cuenta de la base de datos creada en prisma.io
 
-![cuenta base de datos](./cuentabasedatosprisma.png)
+![cuenta base de datos](/evidencias%20imagenes/cuentabasededatosprisma.png)
 
 # Configuracion de base de datos en prisma.io
 
-![configuracion de base de datos en Prisma](./configuracionprisma.png)
+![configuracion de base de datos en Prisma](/Capturas%20de%20pantalla/configuracionprisma.png)
 
 # Videos de la conexion por consola a la base de datos en  Prisma.io
 
@@ -26,40 +26,40 @@
 **POST: crear 3 estudiantes**
 
 **estudiante 1**
-![creando primer estudiante](crea-primer-estudiante.png)
+![creando primer estudiante](/Capturas%20de%20pantalla/estudiante1.png)
 
 **estudiante 2**
-![creando segundo estudiante](crea-segundo-estudiante.png)
+![creando segundo estudiante](/Capturas%20de%20pantalla/estudiante2.png)
 
 
 **estudiante 3**
-![creando tercer estudiante](crea-tercer-estudiante.png)
+![creando tercer estudiante](/Capturas%20de%20pantalla/estudiante3.png)
 
 
 **GET ALL Pruebas de que se guardaron los 3 estudiantes**
 
-![postman prueba](los-tres-estudiantes-creados-en-postman.png)
+![postman prueba](/Capturas%20de%20pantalla/3estudiantes.png)
 
 **Prueba en Prisma**
 
-![Prueba en Prisma](los-tres-estudiantes-creados.png)
+![Prueba en Prisma](/Capturas%20de%20pantalla/cuentabasededatosprisma.png)
 
 
 **GET by ID obteniendo estudiante por su ID**
 
-![por id](get-por-id-estudiante1.png)
+![por id](/Capturas%20de%20pantalla/estudiante1.png)
 
 **GET by Email obteniendo estudiante por email**
 
-![por email](get-por-email-estudiante3.png)
+![por email](/Capturas%20de%20pantalla/estudiante3.png)
 
 **PUT se le actualiza el phone al estudiante 1**
 
-![phone actualizado](actualizar-phone-estudiante1.png)
+![phone actualizado](/Capturas%20de%20pantalla/actualizacionphone.png)
 
 **DELETE : se elimina el estudiante 2**
 
-![eliminado el estudiante 2](borrar-estudiante2.png)
+![eliminado el estudiante 2](/Capturas%20de%20pantalla/deleteestudiante.png)
 
 
 # Ejecucion de pruebas unitarias y de integracion
